@@ -2,7 +2,7 @@
 
 A new Flutter project.
 //add collaboration
-
+//hacktoberfest-collab
 ## Getting Started
 
 This project is a starting point for a Flutter application.
