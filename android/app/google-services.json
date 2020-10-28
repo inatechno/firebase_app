@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496059071904",
+    "firebase_url": "https://flutter-app-64866.firebaseio.com",
+    "project_id": "flutter-app-64866",
+    "storage_bucket": "flutter-app-64866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496059071904:android:87d41b3a652e501a4eb8c5",
+        "android_client_info": {
+          "package_name": "com.inatechno.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496059071904-jpqk0jka1tqo8vptdru8dvlqpk1hb24t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTlm2XyU0jPkN-42Sf5rPYyWlg4ThriIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496059071904-jpqk0jka1tqo8vptdru8dvlqpk1hb24t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
